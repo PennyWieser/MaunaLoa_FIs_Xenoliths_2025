@@ -1,0 +1,4 @@
+PhaseDiagramsCalculations.ipynb - Notebook that generates phase diagrams using different models
+Selected_Phase_Diagram_compositions.xlsx - Starting compositions
+Holland_16wt%MgO_Ariskin.pkl - Example output for the Ariskin model at 16 wt% MgO
+LoadPhaseDiagrams.ipynb - Notebook for loading in pickles and plotting the phase diagram. 
